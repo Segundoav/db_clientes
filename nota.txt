@@ -1,0 +1,17 @@
+# base de clientes 
+
+python c:/Users/Segundoav/Visual/db_clientes/base.py
+
+# actualizar clientes
+
+python c:/Users/Segundoav/Visual/db_clientes/actualizarcliente.py
+
+# eliminar cliente
+
+python c:/Users/Segundoav/Visual/db_clientes/eliminarcliente.py
+
+# insertar cliente
+
+python c:/Users/Segundoav/Visual/db_clientes/insertarcliente.py
+
+
